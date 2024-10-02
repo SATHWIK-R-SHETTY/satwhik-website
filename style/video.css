@@ -1,0 +1,95 @@
+.image{
+  width: 100%;
+  object-fit: contain;
+  } 
+
+  .imagee{
+    position: relative;
+    margin-bottom: 0px;
+  }
+
+  .time{
+    
+    background-color: black;
+    color: white;
+    position: absolute;
+    bottom: 8px;
+    right: 5px;
+    font-family: arial;
+    font-size: 12px;
+    font-weight: 500;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 2px;
+  }
+
+ .title{
+  font-family: arial;
+  font-weight: 600;
+  width: 250px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 10px;
+ }
+
+ .author{
+  color: grey;
+  font-family: arial;
+  font-size: 12px;
+  margin-bottom: 3px;
+  display: block;
+ margin-bottom: 4px;
+ }
+
+ .views{
+  color: grey;
+  font-family: arial;
+  font-size: 12px;
+  margin-top: 0px;
+ }
+
+ .div{
+  display: inline-block;
+  vertical-align: top;
+}
+
+ .video-info-grid{
+  display: grid;
+  grid-template-columns: 50px 1fr;
+  margin-top: 8px;
+ }
+
+ 
+.picture{
+  width: 36px;
+  border-radius: 18px;
+ 
+}
+
+.chal{
+  font-family: arial;
+  font-weight: 600;
+  width: 250px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+.video-grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap: 16px;
+  row-gap: 40px;
+}
+
+
+
+
+
+
